@@ -3,7 +3,7 @@
 - 🚀 4° Período.<br>
 <br>
 
-Don't speak Portuguese? Access the English version [here](https://github.com/AntonioMori/AntonioMori/blob/main/README-en.md). <br>
+Don't speak Portuguese? Access the English version [here](https://github.com/AntonioMori/AntonioMori/blob/main/README-en.md). Be sure auto-translate is off <br>
 
 
 <!--

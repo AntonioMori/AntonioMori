@@ -43,5 +43,11 @@ Here are some ideas to get you started:
   <img height=180 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniomori&layout=compact&langs_count=8&card_width=300&theme=tokyonight&rank_icon=github&bg_color=90,000000,040449" />
 </div>
 
+<!-- Jogo da cobrinha -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonioMori/AntonioMori/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonioMori/AntonioMori/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AntonioMori/AntonioMori/output/github-contribution-grid-snake.svg">
+</picture>
 
 

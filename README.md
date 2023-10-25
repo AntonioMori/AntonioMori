@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <!-- Jogo da cobrinha -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonioMori/AntonioMori/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonioMori/AntonioMori/output/github-contribution-grid-snake.svg">
+  
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AntonioMori/AntonioMori/output/github-contribution-grid-snake.svg">
 </picture>
 

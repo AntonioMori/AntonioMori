@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am glad that you are here!</h1>
+<h1>Hello, I am glad that you are here!</h1>
 
 <h2>My name is Antonio Mori, and this is my profile.😄</h2> 
 <h3> 👷‍♂️ I am a computer engineering student, and here I keep some of the various lessons I have learned throughout my academic journey so far. I hope to be able to help with something, and I appreciate your visit to my profile. "It is currently under construction, and there isn't much to offer yet 😓, but I am working daily to improve it! 😃" </h3>

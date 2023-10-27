@@ -15,6 +15,9 @@ Don't speak Portuguese? Access the English version [here](https://github.com/Ant
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+  <img height=180 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniomori&layout=compact&langs_count=8&card_width=300&theme=tokyonight&rank_icon=github&bg_color=90,000000,040449" />
 -->
 
 <h1 align="center">⚙Git Stats</h1>
@@ -24,7 +27,6 @@ Don't speak Portuguese? Access the English version [here](https://github.com/Ant
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=antoniomori&theme=tokyonight&rank_icon=github&card_width=300&show_icons=true&bg_color=90,000000,040449"  />
 
 
-  <img height=180 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniomori&layout=compact&langs_count=8&card_width=300&theme=tokyonight&rank_icon=github&bg_color=90,000000,040449" />
 </div>
 
 <!-- Jogo da cobrinha -->

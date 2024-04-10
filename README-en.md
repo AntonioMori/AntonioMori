@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">Hello, my name is Antonio Mori and I am glad that you are here!</h1>
 
 <h3> 👷‍♂️ I am a computer engineering student, and here I keep some of the various lessons I have learned throughout my academic journey so far. I hope to be able to help with something, and I appreciate your visit to my profile. "It is currently under construction, and there isn't much to offer yet 😓, but I am working daily to improve it! 😃" </h3>
-- 🚀 4° Período.<br>
+- 🚀 5° Período.<br>
 
 #### Não fala inglês? Acesse a versão em português [aqui](https://github.com/AntonioMori/AntonioMori/blob/main/README.md).
 <!--
